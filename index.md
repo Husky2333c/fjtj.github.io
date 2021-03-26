@@ -4,4 +4,4 @@
 
 这是一个链接[giao](https://www.runoob.com/markdown/md-link.html)
 
-[Markdown-链接](https://github.com/Husky2333c/Husky2333c.github.io/blob/main/Markdown-%E9%93%BE%E6%8E%A5.md)
+[Markdown-链接](/Markdown-链接)
