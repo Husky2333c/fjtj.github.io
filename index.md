@@ -2,4 +2,4 @@
 
 ## 这是一个二级标题
 
-这是一个链接 [giao] (Markdown-链接.md)
+这是一个链接 [giao] (https://www.runoob.com/markdown/md-link.html)
